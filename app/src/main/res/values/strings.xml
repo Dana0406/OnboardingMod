@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">OnboardingMod</string>
+    <string name="your_first_car_without_a_driver_s_license">Your first car without a driver\'s license</string>
+    <string name="goes_to_meet_people_who_just_got_their_license">Goes to meet people who just got their license</string>
+    <string name="skip">Skip</string>
+    <string name="always_there_more_than_1000_cars_in_tbilisi">Always there: more than 1000 cars in Tbilisi</string>
+    <string name="our_company_is_a_leader_by_the_number_of_cars_in_the_fleet">Our company is a leader by the number of cars in the fleet</string>
+    <string name="do_not_pay_for_parking_maintenance_and_gasoline">Do not pay for parking, maintenance and gasoline</string>
+    <string name="we_will_pay_for_you_all_expenses_related_to_the_car">We will pay for you, all expenses related to the car</string>
+    <string name="_29_car_models_from_skoda_octavia_to_porsche_911">29 car models: from Skoda Octavia to Porsche 911</string>
+    <string name="choose_between_regular_car_models_or_exclusive_ones">Choose between regular car models or exclusive ones</string>
+    <string name="you_are_a_clever_person">You are a clever person!</string>
 </resources>
