@@ -1,4 +1,4 @@
-package com.example.onboarding.screens
+package com.example.onboardingmod.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -10,12 +10,12 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.onboarding.SharedComposable.CarImage
-import com.example.onboarding.SharedComposable.EllipseElement
-import com.example.onboarding.SharedComposable.NavigationDots
-import com.example.onboarding.SharedComposable.RectangleElement
-import com.example.onboarding.SharedComposable.ScreenTitle
-import com.example.onboarding.SharedComposable.SkipButton
+import com.example.onboardingmod.SharedComposable.CarImage
+import com.example.onboardingmod.SharedComposable.EllipseElement
+import com.example.onboardingmod.SharedComposable.NavigationDots
+import com.example.onboardingmod.SharedComposable.RectangleElement
+import com.example.onboardingmod.SharedComposable.ScreenTitle
+import com.example.onboardingmod.SharedComposable.SkipButton
 import com.example.onboardingmod.R
 import com.example.onboardingmod.ui.theme.Orange
 

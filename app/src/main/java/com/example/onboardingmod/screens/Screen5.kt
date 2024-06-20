@@ -1,4 +1,4 @@
-package com.example.onboarding.screens
+package com.example.onboardingmod.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*

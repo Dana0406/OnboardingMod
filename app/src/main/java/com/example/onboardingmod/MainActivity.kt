@@ -14,11 +14,11 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import com.example.onboarding.screens.Screen1
-import com.example.onboarding.screens.Screen2
-import com.example.onboarding.screens.Screen3
-import com.example.onboarding.screens.Screen4
-import com.example.onboarding.screens.Screen5
+import com.example.onboardingmod.screens.Screen1
+import com.example.onboardingmod.screens.Screen2
+import com.example.onboardingmod.screens.Screen3
+import com.example.onboardingmod.screens.Screen4
+import com.example.onboardingmod.screens.Screen5
 import kotlinx.coroutines.launch
 
 class MainActivity : ComponentActivity() {
